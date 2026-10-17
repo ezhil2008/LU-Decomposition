@@ -50,7 +50,9 @@ print(x)
 ```
 
 ## Output:
+1.
 <img width="1205" height="452" alt="Screenshot 2026-10-17 090020" src="https://github.com/user-attachments/assets/0fdcaa2e-b24a-4308-aa6b-88889181b339" />
+2.
 <img width="1205" height="190" alt="Screenshot 2026-10-17 090046" src="https://github.com/user-attachments/assets/ce7cf5b7-ada9-42ab-906c-0ae25a384b3e" />
 
 ## Result:
